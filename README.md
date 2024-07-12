@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)]
 <h1 align="center">Hey 👋, meet me I'm Pranav Prabhat Sinha</h1>
 <h3 align="center">A passionate AI student. Enthusiastic about Machine learning, Neural Networks, and Computer Vision. Adaptable, outgoing, and thrives under pressure. Strong team player with excellent communication skills and a proven track record of collaborating effectively in project teams. Eager to learn more about AI and its applications in real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
