@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pranavindia071@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KZIGZImqfMsNaMMYck3OeCH3_V2Knizo/view?usp=drive_link](https://drive.google.com/file/d/1KZIGZImqfMsNaMMYck3OeCH3_V2Knizo/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KZIGZImqfMsNaMMYck3OeCH3_V2Knizo/view?usp=drive_link](https://drive.google.com/file/d/19WxfV-NMQldQViDnf8Qy7GWqLYAkK24U/view?usp=drive_link)
 
 - ⚡ Fun fact **In 2023, an AI called GPT-4 passed a bar exam, outperforming 90% of human test-takers.**
 
